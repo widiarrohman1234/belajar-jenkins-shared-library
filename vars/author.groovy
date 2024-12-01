@@ -1,11 +1,11 @@
 def call(){
-  "Eko Kurniawan Khannedy - Programmer Zaman Now"
+  "Widi Arrohman - Widiarrohman1234"
 }
 
 def name(){
-  "Eko Kurniawan Khannedy"
+  "Widi Arrohman"
 }
 
 def channel(){
-  "Programmer Zaman Now"
+  "Widiarrohman1234"
 }
