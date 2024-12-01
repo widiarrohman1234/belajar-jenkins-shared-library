@@ -2,8 +2,12 @@ package widiarrohman.jenkins;
 
 class Output {
 
+    // tidak bisa, harus pakai println()
+    //   static def hello(String name) {
+    // echo("Hello ${name}") 
+    //   }
   static def hello(steps, String name) {
-    println("Hello ${name}")
+    steps.echo("Hello ${name}") 
   }
 
 }
